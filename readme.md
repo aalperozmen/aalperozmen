@@ -1,4 +1,4 @@
-### Hi, I'm Ali Alper :clap: :clap:
+### Hi, I'm Ali Alper :wave: :wave:
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
