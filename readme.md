@@ -1,9 +1,17 @@
 ### Hi, I'm Ali Alper :wave: :wave:
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+<div>
+  <a href="mailto:alperozmen45@gmail.com?body=Bonjour%20Muhammet">
+    <img width="22px"src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" />
+  </a>
+  <a href="https://instagram.com/a.alperozmen/">
+    <img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />
+  </a>
+  <a href="https://twitter.com/alialperozmen">
+    <img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />
+  </a>
+</div>
 
-<br />
 <br />
 
 <p>
@@ -12,7 +20,7 @@
 </p>
 
 
-[instagram]: https://www.instagram.com/a.alperozmen/
-[twitter]: https://twitter.com/alialperozmen
-[linkedin]: https://www.linkedin.com/in/ali-alper-%C3%B6zmen-65092719b/
+
+
+
 
