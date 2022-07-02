@@ -1,6 +1,6 @@
 ### Hi, I'm Ali Alper :wave: :wave:
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
@@ -13,7 +13,7 @@
 </p>
 
 
-[youtube]: https://www.youtube.com/c/codingwithdidem
+[instagram]: https://www.instagram.com/a.alperozmen/
 [twitter]: https://twitter.com/alialperozmen
 [linkedin]: https://www.linkedin.com/in/ali-alper-%C3%B6zmen-65092719b/
 
